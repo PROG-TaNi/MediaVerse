@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 # === 1. Configure Gemini API with your key ===
-genai.configure(api_key="AIzaSyC7VE6o4iYIpFLCOM9PAKlSFaXwlfE98gs")
+genai.configure(api_key="ADD_YOUR_GEMINI_KEY")
 
 # ✅ Use a fast, fun, cost-effective model
 model = genai.GenerativeModel("models/gemini-1.5-flash-latest")
