@@ -36,8 +36,8 @@ A comprehensive media discovery platform with support for movies, books, and mus
 
 ### Data Sources
 - **Movies**: Local CSV dataset with OMDb API integration for posters
-- **Books**: Goodreads 10k dataset with cover images
-- **Music**: Placeholder dataset
+- **Books**: Goodreads 10k dataset with cover images ( from Kaggle )
+- **Music**: Kaggle Dataset
 
 ## Installation & Setup
 
